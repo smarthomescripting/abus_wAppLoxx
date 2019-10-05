@@ -5,7 +5,7 @@ import base64
 
 login = urllib2.quote(base64.b64encode(b'LOGINNAME'))
 password = urllib2.quote(base64.b64encode(b'PASSWORD'))
-door = 3 # REPLACE
+door = 3 # REPLACE AS REQUIRED, SOME TRIAL AND ERROR REQUIRED
 
 ts = time.time()
 
