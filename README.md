@@ -7,4 +7,4 @@ Please note:
 
 - This is just the work of one hour, i bet this can be improved if you want to
 - I assume your abus device can be reached via the hostname "abus" in your local network (feel free to replace or rename the host)
-- No big security measures have been implemented - use at your own risk (e.g. you might want to secure the crentials in a vault and put security around the script)
+- No big security measures have been implemented - use at your own risk (e.g. you might want to secure the credentials in a vault and put security around the script)
